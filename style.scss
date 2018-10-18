@@ -44,7 +44,9 @@ html {
 
 }
 body {
-   background-image: url("http://psd.fanextra.com/wp-content/uploads/2011/02/spaceages1.jpg");
+   #grad {
+    background-image: linear-gradient(red, yellow);
+}
 }
 
 h1, h2, h3, h4, h5, h6 {
