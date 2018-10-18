@@ -9,7 +9,7 @@ name: Bertie
 description: Life is oofy.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.kisspng.com/png-dog-husky-cartoon-illustration-cartoon-dog-avatar-436325/preview.html
+avatar: ("https://www.kisspng.com/png-dog-husky-cartoon-illustration-cartoon-dog-avatar-436325/preview.html)"
 #
 # Flags below are optional
 #
