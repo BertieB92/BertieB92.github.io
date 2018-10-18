@@ -46,8 +46,8 @@ html {
 body {
 	
 #grad1 {
-    height: 1000px;
-    background-color: red; /* For browsers that do not support gradients */
+    height: 5000px;
+    background-color: blue; /* For browsers that do not support gradients */
     background-image: linear-gradient(blue, pink); /* Standard syntax (must be last) */
 	}
 }
