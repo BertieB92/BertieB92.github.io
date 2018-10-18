@@ -44,9 +44,11 @@ html {
 
 }
 body {
-   #grad {
-    background-image: linear-gradient(red, yellow);
-}
+#grad1 {
+    height: 200px;
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(blue, pink); /* Standard syntax (must be last) */
+	}
 }
 
 h1, h2, h3, h4, h5, h6 {
