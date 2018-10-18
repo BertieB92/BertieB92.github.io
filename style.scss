@@ -20,8 +20,8 @@
  width: 90%;
 	 /* The animation code */
 @keyframes example {
-   from {background-color: pink;}
-   to {background-color: blue;}
+   from {background-color: grey;}
+   to {background-color: purple;}
 }
 
 
@@ -48,7 +48,7 @@ body {
 #grad1 {
     height: 5000px;
     background-color: blue; /* For browsers that do not support gradients */
-    background-image: linear-gradient(blue, pink); /* Standard syntax (must be last) */
+    background-image: linear-gradient(grey, purple); /* Standard syntax (must be last) */
 	}
 }
 
