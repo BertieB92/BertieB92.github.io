@@ -30,7 +30,7 @@
 div {
    width: 740px;
    height: 100px;
-   background-color: blue;
+   background-color: purple;
    animation-name: example;
    animation-duration: 20s;
 }
@@ -47,9 +47,9 @@ body {
 	
 #grad1 {
     height: 5000px;
-    background-color: blue; /* For browsers that do not support gradients */
+    background-color: grey; /* For browsers that do not support gradients */
     background-image: linear-gradient(grey, purple); /* Standard syntax (must be last) */
-	}
+ }
 }
 
 h1, h2, h3, h4, h5, h6 {
