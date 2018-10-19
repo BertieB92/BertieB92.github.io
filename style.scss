@@ -12,40 +12,41 @@
 /**************/
 /* BASE RULES */
 /**************/
+
+
 html {
-  font-size: 100%;
+font-size: 100%;
 }
 
 body {
-	background: grey;
+background: grey;
 }
-
 .container {
- margin: 0 auto;
- max-width: 740px;
- padding: 0 1000px;
- width: 90%;
+margin: 0 auto;
+max-width: 740px;
+padding: 0 1000px;
+width: 90%;
+
+
 	 /* The animation code */
+
+
 @keyframes example {
-   from {background-color: grey;}
-   to {background-color: purple;}
+from {background-color: grey;}
+to {background-color: purple;}
 }
-
-
-
 /* The element to apply the animation to */
-div {
-   width: 740px;
-   height: 150px;
-   background-color: purple;
-   animation-name: example;
-   animation-duration: 20s;
-}
-   
-	padding: 20px;
-	border-radius: 25px;
 
-	h1, h2, h3, h4, h5, h6 {
+div {
+width: 740px;
+height: 150px;
+background-color: purple;
+animation-name: example;
+animation-duration: 20s;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
@@ -298,7 +299,6 @@ footer {
   text-align: center;
 }
 
-}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
