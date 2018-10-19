@@ -6,10 +6,11 @@
 name: Bertie
 
 # Short bio or description (displayed in the header)
-description: Life is oofy, keep it that way.
+description: life is oofy keepit that way
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: url("https://www.freepngimg.com/thumb/dog/5-dog-png-image-thumb.png");
+
 #
 # Flags below are optional
 #
