@@ -20,6 +20,7 @@ font-size: 100%;
 body {
 background: grey;
 }
+
 .container {
 margin: 0 auto;
 max-width: 740px;
@@ -38,7 +39,7 @@ to {background-color: purple;}
 
 div {
 width: 740px;
-height: 100px;
+height: 150px;
 background-color: purple;
 animation-name: example;
 animation-duration: 20s;
